@@ -5,3 +5,4 @@ set -o pipefail
 
 brew install libsndfile fftw autoconf libtool
 brew install automake || brew upgrade automake
+brew install pulseaudio
